@@ -1,0 +1,102 @@
+#everything{
+    padding-top: 5%;
+    display: flex;
+}
+
+#tic{
+    font-family: 'Major Mono Display', monospace;
+    position: absolute;
+    top:7%;
+    font-size: 100px;
+    padding-left:100px;
+    -webkit-transform: rotate(-45deg);
+}
+
+#tac{
+    font-family: 'Major Mono Display', monospace;
+    position: absolute;
+    right: 5%;
+    top: 7%;
+    font-size: 100px;
+    padding-right:100px;
+    -webkit-transform: rotate(45deg);
+}
+
+#toe{
+    font-family: 'Major Mono Display', monospace;
+    position: absolute;
+    top: 57%;
+    font-size: 100px;
+    padding-left: 100px;
+    -webkit-transform: rotate(45deg);
+}
+
+#button{
+    font-family: 'Major Mono Display', monospace;
+    background-color: grey;
+    color: white;
+position: absolute;
+   right:5%;
+   top: 85%;
+   font-size:40px;
+   border: none;
+   cursor: pointer;
+}
+
+#game-board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    background-color: white;
+    margin: 10px auto;
+    -webkit-transform: rotate(45deg);
+}
+
+.cell {
+    width: 30%;
+    border: 2px solid black;
+    height: 175px;
+    color: black;
+    text-align: center;
+    font-size:150px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+#c0{
+    border-top-color: white; 
+    border-left-color: white;
+}
+#c1{
+    border-top-color: white;
+}
+#c2{
+    border-top-color: white;
+    border-right-color: white;
+}
+#c3{
+    border-left-color: white;
+}
+#c4{
+    box-shadow: 0px 30px 40px rgba(0,0,0,.1);
+}
+#c5{
+    border-right-color: white;
+}
+#c6{
+    border-left-color: white;
+    border-bottom-color: white;
+}
+#c7{
+    border-bottom-color: white;
+}
+#c8{
+    border-right-color: white;
+    border-bottom-color: white;
+}
+
+
+
+
+ 
+
+
