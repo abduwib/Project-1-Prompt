@@ -1,7 +1,7 @@
 
 # Overview:
 
-- This is a elevated take (literally!) on the original classic paper and pensil game,
+- This is a elevated take (literally!) on the original classic paper and pensil game.
 - modernised for the unconventional and non-linear individuals alike.  
 
 ## Screenshot
@@ -19,6 +19,8 @@
 - Usman Bashir.
 - Michael Finneran. 
 - Moath Althawad.
+- Abdullah Alfehaid.
+- Ayman Almatrudi.
 
 ### Refrences:
 
